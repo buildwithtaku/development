@@ -10,9 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -81,5 +79,4 @@ I would hope to continue learn CSS and Responsive Design which can help master s
 
 - Frontend Mentor - [@buildwithtaku](https://www.frontendmentor.io/profile/buildwithtaku)
 - Twitter - [@withTakuJ](https://www.twitter.com/withTakuJ)
-
-
+  
